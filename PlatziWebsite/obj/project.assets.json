@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\envy\\Platzi\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\envy\\Platzi\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "C:\\Users\\envy\\Platzi\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "C:\\Users\\envy\\Platzi\\SitioWebPlatzi\\PlatziWebsite\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\envy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\envy\\Platzi\\PlatziWebsite\\obj\\",
+      "outputPath": "C:\\Users\\envy\\Platzi\\SitioWebPlatzi\\PlatziWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\envy\\AppData\\Roaming\\NuGet\\NuGet.Config"
